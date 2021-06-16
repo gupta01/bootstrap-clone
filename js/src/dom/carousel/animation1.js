@@ -1,0 +1,1 @@
+console.log("this is animation one for carousel component");
